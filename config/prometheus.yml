@@ -1,0 +1,4 @@
+scrape_configs:
+  - job_name: 'lstm_predictions'
+    static_configs:
+      - targets: ['localhost:9091'] 

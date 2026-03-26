@@ -1,0 +1,18 @@
+# ---------------- CORE ----------------
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+joblib==1.3.2
+
+# ---------------- DEEP LEARNING ----------------
+tensorflow==2.16.1
+
+# ---------------- API / REQUESTS ----------------
+requests==2.31.0
+
+# ---------------- PROMETHEUS ----------------
+prometheus-client==0.20.0
+
+# ---------------- OPTIONAL (DEV / DEBUG) ----------------
+matplotlib==3.8.4
+tqdm==4.66.4
